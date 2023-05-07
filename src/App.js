@@ -15,15 +15,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-<<<<<<< HEAD
           my first child
         </a>
-        <div>my name is lilikliklvcx</div>
-=======
-          lololololololl
-        </a>
+
         <div className="rt">my first children </div>
->>>>>>> 2de33ac42ed069e19b1e2451711fc5d2f45f5e14
       </header>
     </div>
   );
