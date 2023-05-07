@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div className="rt">my first children </div>
-        <div>lololo</div>
+        <div className="ty">lololo</div>
       </header>
     </div>
   );
