@@ -15,8 +15,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          my first child
         </a>
+        <div>my name is lilikliklvcx</div>
       </header>
     </div>
   );
